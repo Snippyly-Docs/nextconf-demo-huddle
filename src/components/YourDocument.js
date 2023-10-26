@@ -45,7 +45,7 @@ export default function YourDocument() {
         </div>
   
   
-            <a href="https://vercel.com/new/clone?repository-url=https://github.com/Snippyly-Docs/nextconf-demo-velt"><img src="https://vercel.com/button" alt="Deploy with Vercel"/></a>
+            <a href="https://vercel.com/new/clone?repository-url=https://github.com/Snippyly-Docs/nextconf-demo-huddle"><img src="https://vercel.com/button" alt="Deploy with Vercel"/></a>
       </div>
     </div>
   </div>
